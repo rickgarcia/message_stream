@@ -1,0 +1,1 @@
+This is a reverse-engineered message bus library for Python. The message bus supports CA Nimsoft (now UIM) messaging and access, but can run independently.
